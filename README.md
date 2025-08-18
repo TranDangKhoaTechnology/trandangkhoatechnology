@@ -86,10 +86,10 @@ With a hands-on mindset, I enjoy working on practical, impactful solutions that 
     </picture>
   </a>
 
-  <a href="https://github.com/codewithkhoa/Robot_Controller">
+  <a href="https://github.com/CodeWithKhoa/Styled-Google-Translate-Widget">
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Robot_Controller&theme=blue-green" media="(prefers-color-scheme: dark)" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Robot_Controller&theme=solarized-light" alt="Robot Controller Repo" />
+      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Styled-Google-Translate-Widget&theme=blue-green" media="(prefers-color-scheme: dark)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Styled-Google-Translate-Widget&theme=solarized-light" alt="Styled-Google-Translate-Widget Repo" />
     </picture>
   </a>
 
