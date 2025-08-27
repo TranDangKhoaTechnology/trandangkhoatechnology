@@ -1,38 +1,142 @@
-<h1 align="center">Hi 👋, I'm Tran Dang Khoa</h1>
+<!-- Profile README for CodeWithKhoa - Tran Dang Khoa -->
+
+<h1 align="center" style="color:#319795;">👋 Hello, I'm <span style="color:#1976D2;">Tran Dang Khoa</span>!</h1>
 
 <p align="center">
-  <img src="/assets/avt.png" width="180" style="border-radius:50%; border: 2px solid #ccc;" alt="Tran Dang Khoa Avatar" />
+  <img src="/assets/avt.png" width="180" style="border-radius:50%; border: 2px solid #319795;" alt="Tran Dang Khoa Avatar" />
 </p>
 
 <p align="center">
-  <strong>🎓 Automation Engineer • 🤖 Robotics Enthusiast • 💻 Full-Stack Learner</strong><br>
-  <em>Passionate about bridging the gap between Hardware and Software</em>
+  <strong style="color:#319795;">🎓 Automation Engineer & Robotics Enthusiast</strong><br>
+  <span style="color:#1976D2;"><em>Bridging Hardware and Software to shape the future</em></span>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Introduction & Strengths
 
-I'm a dedicated **Automation Engineer** with a strong passion for designing, building, and integrating systems that combine:
+I am an **Automation Engineer** passionate about creating intelligent systems, integrating control technology, embedded hardware, and modern web solutions.
 
-* Control Engineering
-* Embedded Hardware
-* Modern Web Technologies
-
-With a hands-on mindset, I enjoy working on practical, impactful solutions that make technology more intuitive and efficient.
-
-### 🔧 Interests
-
-* 🤖 Robotics & Embedded Systems
-* 🏭 Industrial Automation
-* 🌐 Internet of Things (IoT)
-* 🔗 System Integration
-* 🧠 AI Applications in Automation
-* 🖥️ Full-Stack Web Development
+- 🎯 Practical mindset, solving technology problems to enhance efficiency and user experience.
+- 🌱 Continuously learning new technologies: AI, IoT, Robotics, Full-stack, Industrial Automation.
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Automatically selects theme based on GitHub UI (light/dark) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=blue-green">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=solarized-light">
+    <img src="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=default" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=blue-green&hide=css">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=solarized-light&hide=css">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=default&hide=css" alt="Top Languages" />
+  </picture>
+</p>
+
+---
+
+## 🧑‍💻 Professional Skills
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-004482?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Systems</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Embedded-319795?style=flat-square"/>
+      <img src="https://img.shields.io/badge/IoT-1976D2?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Automation-43A047?style=flat-square"/>
+      <img src="https://img.shields.io/badge/System%20Integration-0288D1?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Altium%20Designer-009688?style=flat-square&logo=altiumdesigner&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💡 Interests
+
+- 🤖 Robotics & Embedded Systems
+- 🏭 Industrial Automation & PLC
+- 🌐 IoT & Smart Factory
+- 🔗 System Integration
+- 🧠 AI in Automation
+- 🖥️ Full-stack Web Application
+
+---
+
+## 🏆 Featured Projects
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/CodeWithKhoa/FaceAutoVN">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=FaceAutoVN&theme=blue-green">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=FaceAutoVN&theme=solarized-light">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=FaceAutoVN&theme=default" alt="FaceAutoVN" style="border: 2px solid #ccc; border-radius: 10px;" />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/codewithkhoa/Diem-danh-hoc-sinh-Face-ID-THPT">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=blue-green">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=solarized-light">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=default" alt="Diem danh hoc sinh Face-ID THPT" style="border: 2px solid #ccc; border-radius: 10px;" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/CodeWithKhoa/Styled-Google-Translate-Widget">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Styled-Google-Translate-Widget&theme=blue-green">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Styled-Google-Translate-Widget&theme=solarized-light">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Styled-Google-Translate-Widget&theme=default" alt="Styled Google Translate Widget" style="border: 2px solid #ccc; border-radius: 10px;" />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/codewithkhoa/Altium_Library">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Altium_Library&theme=blue-green">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Altium_Library&theme=solarized-light">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Altium_Library&theme=default" alt="Altium Library" style="border: 2px solid #ccc; border-radius: 10px;" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/CodeWithKhoa" target="_blank">
@@ -42,83 +146,27 @@ With a hands-on mindset, I enjoy working on practical, impactful solutions that 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.facebook.com/OfficialTranDangKhoa" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1976D2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:trandangkhoa31122006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-319795?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=shadow_blue" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=tokyonight&hide=css">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=default&hide=css">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=shadow_blue&hide=css" alt="Top Languages" />
-  </picture>
-</p>
-
----
-
-## 🛠 Featured Projects
-
-<p align="center">
-
-  <a href="https://github.com/CodeWithKhoa/FaceAutoVN">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=FaceAutoVN&theme=blue-green" media="(prefers-color-scheme: dark)" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=FaceAutoVN&theme=solarized-light" alt="FaceAutoVN Repo" />
-    </picture>
-  </a>
-
-  <a href="https://github.com/codewithkhoa/Diem-danh-hoc-sinh-Face-ID-THPT">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=blue-green" media="(prefers-color-scheme: dark)" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=solarized-light" alt="Diem danh hoc sinh Repo" />
-    </picture>
-  </a>
-
-  <a href="https://github.com/CodeWithKhoa/Styled-Google-Translate-Widget">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Styled-Google-Translate-Widget&theme=blue-green" media="(prefers-color-scheme: dark)" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Styled-Google-Translate-Widget&theme=solarized-light" alt="Styled-Google-Translate-Widget Repo" />
-    </picture>
-  </a>
-
-  <a href="https://github.com/codewithkhoa/Altium_Library">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Altium_Library&theme=blue-green" media="(prefers-color-scheme: dark)" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Altium_Library&theme=solarized-light" alt="Altium Library Repo" />
-    </picture>
-  </a>
-
-</p>
-
 
 ---
 
 ## 📁 Explore More
 
-You’ll find in my repositories:
+- ⚙️ PCB Design & Embedded Projects
+- 🔋 IoT Systems & Custom Firmware
+- 🌐 Web-based Automation Tools
+- 📚 R&D & Experimental Prototypes
 
-* ⚙️ PCB designs & embedded projects
-* 🔋 IoT systems & custom firmware
-* 🌐 Automation tools using web technologies
-* 📚 Personal R\&D and experimental prototypes
-
-Feel free to fork, star ⭐, or collaborate 🤝!
+⭐ Feel free to fork, star, or connect to collaborate on new projects!
 
 ---
 
 <p align="center">
-  <strong>“Make it work, make it right, make it fast.”</strong><br>
-  <em>– Kent Beck</em>
+  <strong style="color:#1976D2;">“Make it work, make it right, make it fast.”</strong><br>
+  <em style="color:#43A047;">– Kent Beck</em>
 </p>
