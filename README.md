@@ -1,4 +1,4 @@
-<!-- Profile README for CodeWithKhoa - Tran Dang Khoa -->
+<!-- Profile README for TranDangKhoaTechnology - Tran Dang Khoa -->
 
 <h1 align="center" style="color:#319795;">👋 Hello, I'm <span style="color:#1976D2;">Tran Dang Khoa</span>!</h1>
 
@@ -27,14 +27,14 @@ I am an **Automation Engineer** passionate about creating intelligent systems, i
 <p align="center">
   <!-- Automatically selects theme based on GitHub UI (light/dark) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=blue-green">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=solarized-light">
-    <img src="https://github-readme-stats.vercel.app/api?username=codewithkhoa&show_icons=true&theme=default" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TranDangKhoaTechnology&show_icons=true&theme=blue-green">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TranDangKhoaTechnology&show_icons=true&theme=solarized-light">
+    <img src="https://github-readme-stats.vercel.app/api?username=TranDangKhoaTechnology&show_icons=true&theme=default" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=blue-green&hide=css">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=solarized-light&hide=css">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithkhoa&layout=compact&theme=default&hide=css" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TranDangKhoaTechnology&layout=compact&theme=blue-green&hide=css">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TranDangKhoaTechnology&layout=compact&theme=solarized-light&hide=css">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranDangKhoaTechnology&layout=compact&theme=default&hide=css" alt="Top Languages" />
   </picture>
 </p>
 
@@ -94,40 +94,40 @@ I am an **Automation Engineer** passionate about creating intelligent systems, i
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/CodeWithKhoa/FaceAutoVN">
+      <a href="https://github.com/TranDangKhoaTechnology/FaceAutoVN">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=FaceAutoVN&theme=blue-green">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=FaceAutoVN&theme=solarized-light">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=FaceAutoVN&theme=default" alt="FaceAutoVN" style="border: 2px solid #ccc; border-radius: 10px;" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TranDangKhoaTechnology&repo=FaceAutoVN&theme=blue-green">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TranDangKhoaTechnology&repo=FaceAutoVN&theme=solarized-light">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TranDangKhoaTechnology&repo=FaceAutoVN&theme=default" alt="FaceAutoVN" style="border: 2px solid #ccc; border-radius: 10px;" />
         </picture>
       </a>
     </td>
     <td>
-      <a href="https://github.com/codewithkhoa/Diem-danh-hoc-sinh-Face-ID-THPT">
+      <a href="https://github.com/TranDangKhoaTechnology/Diem-danh-hoc-sinh-Face-ID-THPT">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=blue-green">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=solarized-light">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=default" alt="Diem danh hoc sinh Face-ID THPT" style="border: 2px solid #ccc; border-radius: 10px;" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TranDangKhoaTechnology&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=blue-green">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TranDangKhoaTechnology&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=solarized-light">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TranDangKhoaTechnology&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=default" alt="Diem danh hoc sinh Face-ID THPT" style="border: 2px solid #ccc; border-radius: 10px;" />
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/CodeWithKhoa/Styled-Google-Translate-Widget">
+      <a href="https://github.com/TranDangKhoaTechnology/Styled-Google-Translate-Widget">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Styled-Google-Translate-Widget&theme=blue-green">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Styled-Google-Translate-Widget&theme=solarized-light">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Styled-Google-Translate-Widget&theme=default" alt="Styled Google Translate Widget" style="border: 2px solid #ccc; border-radius: 10px;" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TranDangKhoaTechnology&repo=Styled-Google-Translate-Widget&theme=blue-green">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TranDangKhoaTechnology&repo=Styled-Google-Translate-Widget&theme=solarized-light">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TranDangKhoaTechnology&repo=Styled-Google-Translate-Widget&theme=default" alt="Styled Google Translate Widget" style="border: 2px solid #ccc; border-radius: 10px;" />
         </picture>
       </a>
     </td>
     <td>
-      <a href="https://github.com/codewithkhoa/Altium_Library">
+      <a href="https://github.com/TranDangKhoaTechnology/Altium_Library">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Altium_Library&theme=blue-green">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Altium_Library&theme=solarized-light">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithkhoa&repo=Altium_Library&theme=default" alt="Altium Library" style="border: 2px solid #ccc; border-radius: 10px;" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TranDangKhoaTechnology&repo=Altium_Library&theme=blue-green">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TranDangKhoaTechnology&repo=Altium_Library&theme=solarized-light">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=TranDangKhoaTechnology&repo=Altium_Library&theme=default" alt="Altium Library" style="border: 2px solid #ccc; border-radius: 10px;" />
         </picture>
       </a>
     </td>
@@ -139,10 +139,10 @@ I am an **Automation Engineer** passionate about creating intelligent systems, i
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/CodeWithKhoa" target="_blank">
+  <a href="https://github.com/TranDangKhoaTechnology" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://youtube.com/@codewithkhoa" target="_blank">
+  <a href="https://youtube.com/@TranDangKhoaTechnology" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.facebook.com/OfficialTranDangKhoa" target="_blank">
