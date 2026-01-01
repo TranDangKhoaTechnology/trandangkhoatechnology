@@ -32,9 +32,12 @@ I am an **Automation Engineer** passionate about creating intelligent systems, i
     <img src="https://trandangkhoatechnology.github.io/github-readme-stats/?username=TranDangKhoaTechnology&show_icons=true&theme=default" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats//top-langs/?username=TranDangKhoaTechnology&layout=compact&theme=blue-green&hide=css">
-    <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats//top-langs/?username=TranDangKhoaTechnology&layout=compact&theme=solarized-light&hide=css">
-    <img src="https://trandangkhoatechnology.github.io/github-readme-stats//top-langs/?username=TranDangKhoaTechnology&layout=compact&theme=default&hide=css" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/top-langs.dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/top-langs.light.svg">
+    <img alt="Top Languages"
+      src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/top-langs.dark.svg">
   </picture>
 </p>
 
