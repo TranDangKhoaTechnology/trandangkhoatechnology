@@ -27,14 +27,14 @@ I am an **Automation Engineer** passionate about creating intelligent systems, i
 <p align="center">
   <!-- Automatically selects theme based on GitHub UI (light/dark) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats?username=TranDangKhoaTechnology&show_icons=true&theme=blue-green">
-    <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats?username=TranDangKhoaTechnology&show_icons=true&theme=solarized-light">
-    <img src="https://trandangkhoatechnology.github.io/github-readme-stats?username=TranDangKhoaTechnology&show_icons=true&theme=default" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats/?username=TranDangKhoaTechnology&show_icons=true&theme=blue-green">
+    <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats/?username=TranDangKhoaTechnology&show_icons=true&theme=solarized-light">
+    <img src="https://trandangkhoatechnology.github.io/github-readme-stats/?username=TranDangKhoaTechnology&show_icons=true&theme=default" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats/top-langs/?username=TranDangKhoaTechnology&layout=compact&theme=blue-green&hide=css">
-    <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats/top-langs/?username=TranDangKhoaTechnology&layout=compact&theme=solarized-light&hide=css">
-    <img src="https://trandangkhoatechnology.github.io/github-readme-stats/top-langs/?username=TranDangKhoaTechnology&layout=compact&theme=default&hide=css" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats//top-langs/?username=TranDangKhoaTechnology&layout=compact&theme=blue-green&hide=css">
+    <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats//top-langs/?username=TranDangKhoaTechnology&layout=compact&theme=solarized-light&hide=css">
+    <img src="https://trandangkhoatechnology.github.io/github-readme-stats//top-langs/?username=TranDangKhoaTechnology&layout=compact&theme=default&hide=css" alt="Top Languages" />
   </picture>
 </p>
 
@@ -96,18 +96,18 @@ I am an **Automation Engineer** passionate about creating intelligent systems, i
     <td>
       <a href="https://github.com/TranDangKhoaTechnology/FaceAutoVN">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats/pin/?username=TranDangKhoaTechnology&repo=FaceAutoVN&theme=blue-green">
-          <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats/pin/?username=TranDangKhoaTechnology&repo=FaceAutoVN&theme=solarized-light">
-          <img src="https://trandangkhoatechnology.github.io/github-readme-stats/pin/?username=TranDangKhoaTechnology&repo=FaceAutoVN&theme=default" alt="FaceAutoVN" style="border: 2px solid #ccc; border-radius: 10px;" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats//pin/?username=TranDangKhoaTechnology&repo=FaceAutoVN&theme=blue-green">
+          <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats//pin/?username=TranDangKhoaTechnology&repo=FaceAutoVN&theme=solarized-light">
+          <img src="https://trandangkhoatechnology.github.io/github-readme-stats//pin/?username=TranDangKhoaTechnology&repo=FaceAutoVN&theme=default" alt="FaceAutoVN" style="border: 2px solid #ccc; border-radius: 10px;" />
         </picture>
       </a>
     </td>
     <td>
       <a href="https://github.com/TranDangKhoaTechnology/Diem-danh-hoc-sinh-Face-ID-THPT">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats/pin/?username=TranDangKhoaTechnology&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=blue-green">
-          <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats/pin/?username=TranDangKhoaTechnology&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=solarized-light">
-          <img src="https://trandangkhoatechnology.github.io/github-readme-stats/pin/?username=TranDangKhoaTechnology&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=default" alt="Diem danh hoc sinh Face-ID THPT" style="border: 2px solid #ccc; border-radius: 10px;" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats//pin/?username=TranDangKhoaTechnology&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=blue-green">
+          <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats//pin/?username=TranDangKhoaTechnology&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=solarized-light">
+          <img src="https://trandangkhoatechnology.github.io/github-readme-stats//pin/?username=TranDangKhoaTechnology&repo=Diem-danh-hoc-sinh-Face-ID-THPT&theme=default" alt="Diem danh hoc sinh Face-ID THPT" style="border: 2px solid #ccc; border-radius: 10px;" />
         </picture>
       </a>
     </td>
@@ -116,18 +116,18 @@ I am an **Automation Engineer** passionate about creating intelligent systems, i
     <td>
       <a href="https://github.com/TranDangKhoaTechnology/Styled-Google-Translate-Widget">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats/pin/?username=TranDangKhoaTechnology&repo=Styled-Google-Translate-Widget&theme=blue-green">
-          <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats/pin/?username=TranDangKhoaTechnology&repo=Styled-Google-Translate-Widget&theme=solarized-light">
-          <img src="https://trandangkhoatechnology.github.io/github-readme-stats/pin/?username=TranDangKhoaTechnology&repo=Styled-Google-Translate-Widget&theme=default" alt="Styled Google Translate Widget" style="border: 2px solid #ccc; border-radius: 10px;" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats//pin/?username=TranDangKhoaTechnology&repo=Styled-Google-Translate-Widget&theme=blue-green">
+          <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats//pin/?username=TranDangKhoaTechnology&repo=Styled-Google-Translate-Widget&theme=solarized-light">
+          <img src="https://trandangkhoatechnology.github.io/github-readme-stats//pin/?username=TranDangKhoaTechnology&repo=Styled-Google-Translate-Widget&theme=default" alt="Styled Google Translate Widget" style="border: 2px solid #ccc; border-radius: 10px;" />
         </picture>
       </a>
     </td>
     <td>
       <a href="https://github.com/TranDangKhoaTechnology/Altium_Library">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats/pin/?username=TranDangKhoaTechnology&repo=Altium_Library&theme=blue-green">
-          <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats/pin/?username=TranDangKhoaTechnology&repo=Altium_Library&theme=solarized-light">
-          <img src="https://trandangkhoatechnology.github.io/github-readme-stats/pin/?username=TranDangKhoaTechnology&repo=Altium_Library&theme=default" alt="Altium Library" style="border: 2px solid #ccc; border-radius: 10px;" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats//pin/?username=TranDangKhoaTechnology&repo=Altium_Library&theme=blue-green">
+          <source media="(prefers-color-scheme: light)" srcset="https://trandangkhoatechnology.github.io/github-readme-stats//pin/?username=TranDangKhoaTechnology&repo=Altium_Library&theme=solarized-light">
+          <img src="https://trandangkhoatechnology.github.io/github-readme-stats//pin/?username=TranDangKhoaTechnology&repo=Altium_Library&theme=default" alt="Altium Library" style="border: 2px solid #ccc; border-radius: 10px;" />
         </picture>
       </a>
     </td>
