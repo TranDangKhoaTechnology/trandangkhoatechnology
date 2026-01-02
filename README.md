@@ -23,22 +23,18 @@ So below, all HTML lines start at column 0 (no indentation).
       <br/><br/>
       <img src="https://img.shields.io/badge/From-Vietnam-319795?style=flat-square" alt="From Vietnam" />
     </td>
-
     <td width="560" valign="top">
       <h2>👋 Xin chào, mình là Trần Đăng Khoa</h2>
-
       <p>
         <b>Automation Engineer</b> • <b>Robotics Enthusiast</b><br/>
         <i>Mình thích biến ý tưởng thành hệ thống chạy “mượt – ổn – hiệu quả”.</i>
       </p>
-
       <p>
         🌟 <b>Điểm mạnh</b><br/>
         • Tư duy thực tế, ưu tiên giải pháp dùng được ngay và dễ bảo trì.<br/>
         • Kết nối <b>phần cứng – firmware – phần mềm</b> để tạo thành hệ thống hoàn chỉnh.<br/>
         • Quan tâm tới <b>AI ứng dụng</b> trong tự động hoá và nhà máy thông minh.
       </p>
-
       <p>
         <a href="https://github.com/TranDangKhoaTechnology" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -53,7 +49,6 @@ So below, all HTML lines start at column 0 (no indentation).
           <img src="https://img.shields.io/badge/Email-319795?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
       </p>
-
       <p>
         <b>💬 Mình đang tập trung vào:</b><br/>
         • Tự động hoá công nghiệp (PLC/SCADA/IIoT) & tích hợp hệ thống<br/>
@@ -151,7 +146,6 @@ So below, all HTML lines start at column 0 (no indentation).
         </picture>
       </a>
     </td>
-
     <td width="50%" style="padding:10px;" valign="top">
       <a href="https://github.com/TranDangKhoaTechnology/Diem-danh-hoc-sinh-Face-ID-THPT">
         <picture>
@@ -173,7 +167,6 @@ So below, all HTML lines start at column 0 (no indentation).
         </picture>
       </a>
     </td>
-
     <td width="50%" style="padding:10px;" valign="top">
       <a href="https://github.com/TranDangKhoaTechnology/Altium_Library">
         <picture>
