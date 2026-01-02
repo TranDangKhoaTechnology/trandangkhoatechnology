@@ -123,10 +123,6 @@ So below, all HTML lines start at column 0 (no indentation).
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TranDangKhoaTechnology&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TranDangKhoaTechnology&bg_color=00000000&color=319795&line=0ea5e9&point=319795&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
