@@ -110,7 +110,7 @@ So below, all HTML lines start at column 0 (no indentation).
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=TranDangKhoaTechnology&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=TranDangKhoaTechnology&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -121,26 +121,52 @@ So below, all HTML lines start at column 0 (no indentation).
 
 ## 🏆 Dự án nổi bật
 
-<!-- Robust dark/light rendering using GitHub-only fragments: #gh-dark-mode-only / #gh-light-mode-only -->
+<p align="center">
+  <a href="https://github.com/TranDangKhoaTechnology/FaceAutoVN">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/FaceAutoVN.dark.svg">
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/FaceAutoVN.light.svg">
+      <img width="420" alt="FaceAutoVN"
+        src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/FaceAutoVN.dark.svg">
+    </picture>
+  </a>
+
+  <a href="https://github.com/TranDangKhoaTechnology/Diem-danh-hoc-sinh-Face-ID-THPT">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Diem-danh-hoc-sinh-Face-ID-THPT.dark.svg">
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Diem-danh-hoc-sinh-Face-ID-THPT.light.svg">
+      <img width="420" alt="Diem-danh-hoc-sinh-Face-ID-THPT"
+        src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Diem-danh-hoc-sinh-Face-ID-THPT.dark.svg">
+    </picture>
+  </a>
+</p>
 
 <p align="center">
-<a href="https://github.com/TranDangKhoaTechnology/FaceAutoVN">
-<img src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/FaceAutoVN.light.svg#gh-light-mode-only" width="420" alt="FaceAutoVN" />
-<img src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/FaceAutoVN.dark.svg#gh-dark-mode-only" width="420" alt="FaceAutoVN" />
-</a>
-<a href="https://github.com/TranDangKhoaTechnology/Diem-danh-hoc-sinh-Face-ID-THPT">
-<img src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Diem-danh-hoc-sinh-Face-ID-THPT.light.svg#gh-light-mode-only" width="420" alt="Diem-danh-hoc-sinh-Face-ID-THPT" />
-<img src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Diem-danh-hoc-sinh-Face-ID-THPT.dark.svg#gh-dark-mode-only" width="420" alt="Diem-danh-hoc-sinh-Face-ID-THPT" />
-</a>
-<br/>
-<a href="https://github.com/TranDangKhoaTechnology/Styled-Google-Translate-Widget">
-<img src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Styled-Google-Translate-Widget.light.svg#gh-light-mode-only" width="420" alt="Styled-Google-Translate-Widget" />
-<img src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Styled-Google-Translate-Widget.dark.svg#gh-dark-mode-only" width="420" alt="Styled-Google-Translate-Widget" />
-</a>
-<a href="https://github.com/TranDangKhoaTechnology/Altium_Library">
-<img src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Altium_Library.light.svg#gh-light-mode-only" width="420" alt="Altium_Library" />
-<img src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Altium_Library.dark.svg#gh-dark-mode-only" width="420" alt="Altium_Library" />
-</a>
+  <a href="https://github.com/TranDangKhoaTechnology/Styled-Google-Translate-Widget">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Styled-Google-Translate-Widget.dark.svg">
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Styled-Google-Translate-Widget.light.svg">
+      <img width="420" alt="Styled-Google-Translate-Widget"
+        src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Styled-Google-Translate-Widget.dark.svg">
+    </picture>
+  </a>
+
+  <a href="https://github.com/TranDangKhoaTechnology/Altium_Library">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Altium_Library.dark.svg">
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Altium_Library.light.svg">
+      <img width="420" alt="Altium_Library"
+        src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Altium_Library.dark.svg">
+    </picture>
+  </a>
 </p>
 
 ---
