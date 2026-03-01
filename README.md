@@ -45,7 +45,7 @@ So below, all HTML lines start at column 0 (no indentation).
         <a href="https://www.facebook.com/OfficialTranDangKhoa" target="_blank">
           <img src="https://img.shields.io/badge/Facebook-1976D2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
         </a>
-        <a href="mailto:trandangkhoa31122006@gmail.com">
+        <a href="mailto:trandangkhoa.automation@gmail.com">
           <img src="https://img.shields.io/badge/Email-319795?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
       </p>
@@ -189,7 +189,7 @@ So below, all HTML lines start at column 0 (no indentation).
   <a href="https://www.facebook.com/OfficialTranDangKhoa" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20Facebook-1976D2?style=for-the-badge&logo=facebook&logoColor=white" alt="Connect Facebook" />
   </a>
-  <a href="mailto:trandangkhoa31122006@gmail.com">
+  <a href="mailto:trandangkhoa.automation@gmail.com">
     <img src="https://img.shields.io/badge/Email%20me-319795?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
 </p>
