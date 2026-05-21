@@ -143,11 +143,11 @@ So below, all HTML lines start at column 0 (no indentation).
       </a>
     </td>
     <td width="50%" style="padding:10px;" valign="top">
-      <a href="https://github.com/TranDangKhoaTechnology/Diem-danh-hoc-sinh-Face-ID-THPT">
+      <a href="https://github.com/TranDangKhoaTechnology/TaoAnhTheBangAI">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Diem-danh-hoc-sinh-Face-ID-THPT.dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Diem-danh-hoc-sinh-Face-ID-THPT.light.svg">
-          <img alt="Diem-danh-hoc-sinh-Face-ID-THPT" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Diem-danh-hoc-sinh-Face-ID-THPT.dark.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/TaoAnhTheBangAI.dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/TaoAnhTheBangAI.light.svg">
+          <img alt="TaoAnhTheBangAI" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/TaoAnhTheBangAI.dark.svg">
         </picture>
       </a>
     </td>
@@ -155,11 +155,32 @@ So below, all HTML lines start at column 0 (no indentation).
 
   <tr>
     <td width="50%" style="padding:10px;" valign="top">
-      <a href="https://github.com/TranDangKhoaTechnology/Styled-Google-Translate-Widget">
+      <a href="https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Styled-Google-Translate-Widget.dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Styled-Google-Translate-Widget.light.svg">
-          <img alt="Styled-Google-Translate-Widget" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Styled-Google-Translate-Widget.dark.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/STM32-FreeRTOS-Multi-Task-Demo.dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/STM32-FreeRTOS-Multi-Task-Demo.light.svg">
+          <img alt="STM32-FreeRTOS-Multi-Task-Demo" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/STM32-FreeRTOS-Multi-Task-Demo.dark.svg">
+        </picture>
+      </a>
+    </td>
+    <td width="50%" style="padding:10px;" valign="top">
+      <a href="https://github.com/TranDangKhoaTechnology/TEST-PID">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/TEST-PID.dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/TEST-PID.light.svg">
+          <img alt="TEST-PID" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/TEST-PID.dark.svg">
+        </picture>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" style="padding:10px;" valign="top">
+      <a href="https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Robot_DHTD18A2HN_2025.dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Robot_DHTD18A2HN_2025.light.svg">
+          <img alt="Robot_DHTD18A2HN_2025" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Robot_DHTD18A2HN_2025.dark.svg">
         </picture>
       </a>
     </td>
@@ -169,6 +190,48 @@ So below, all HTML lines start at column 0 (no indentation).
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Altium_Library.dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Altium_Library.light.svg">
           <img alt="Altium_Library" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Altium_Library.dark.svg">
+        </picture>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" style="padding:10px;" valign="top">
+      <a href="https://github.com/TranDangKhoaTechnology/RoboController">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/RoboController.dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/RoboController.light.svg">
+          <img alt="RoboController" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/RoboController.dark.svg">
+        </picture>
+      </a>
+    </td>
+    <td width="50%" style="padding:10px;" valign="top">
+      <a href="https://github.com/TranDangKhoaTechnology/WebGate">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/WebGate.dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/WebGate.light.svg">
+          <img alt="WebGate" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/WebGate.dark.svg">
+        </picture>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" style="padding:10px;" valign="top">
+      <a href="https://github.com/TranDangKhoaTechnology/CertPanel">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/CertPanel.dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/CertPanel.light.svg">
+          <img alt="CertPanel" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/CertPanel.dark.svg">
+        </picture>
+      </a>
+    </td>
+    <td width="50%" style="padding:10px;" valign="top">
+      <a href="https://github.com/TranDangKhoaTechnology/esp32-remote-stm32-flasher">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/esp32-remote-stm32-flasher.dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/esp32-remote-stm32-flasher.light.svg">
+          <img alt="esp32-remote-stm32-flasher" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/esp32-remote-stm32-flasher.dark.svg">
         </picture>
       </a>
     </td>
