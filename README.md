@@ -1,269 +1,180 @@
-<!-- PROFILE README — TranDangKhoaTechnology / Trần Đăng Khoa -->
-<!-- Put your avatar here: assets/avt.png (use ./assets/avt.png) -->
+<div align="center">
+  <img src="https://github.com/TranDangKhoaTechnology.png" width="150" alt="Trần Đăng Khoa" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:319795,100:0ea5e9&height=190&section=header&text=Tr%E1%BA%A7n%20%C4%90%C4%83ng%20Khoa&fontSize=44&fontAlignY=35&desc=Automation%20Engineer%20%E2%80%A2%20Robotics%20Enthusiast&descAlignY=60" alt="header" />
-</p>
+  # Trần Đăng Khoa
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=319795&center=true&vCenter=true&width=780&lines=Bridging+Hardware+%26+Software+to+shape+the+future;Automation+%7C+Embedded+%7C+IoT+%7C+Robotics+%7C+Web;Lu%C3%B4n+h%E1%BB%8Dc+h%E1%BB%8Fi+%E2%80%A2+Lu%C3%B4n+x%C3%A2y+d%E1%BB%B1ng+%E2%80%A2+Lu%C3%B4n+t%E1%BB%91i+%C6%B0u" alt="typing" />
-</p>
+  **Automation · Embedded Systems · PCB Design · Robotics**
 
-<!-- IMPORTANT:
-GitHub Markdown will show HTML as CODE if you indent lines with 4 spaces or wrap them in ``` blocks.
-So below, all HTML lines start at column 0 (no indentation).
--->
+  <p>
+    Electrical engineering student at <strong>UNETI</strong>, building practical systems across hardware, firmware, automation, and software.
+  </p>
 
-<table align="center" cellpadding="0" cellspacing="0">
+  <p>
+    <a href="https://github.com/TranDangKhoaTechnology">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:trandangkhoa.automation@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://youtube.com/@TranDangKhoaTechnology">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="https://www.facebook.com/OfficialTranDangKhoa">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=TranDangKhoaTechnology&style=flat-square&color=0ea5e9" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Based_in-Vietnam-da251d?style=flat-square" alt="Based in Vietnam" />
+</div>
+
+---
+
+## About me
+
+I enjoy engineering complete systems rather than isolated pieces. My work typically connects:
+
+**schematic & PCB → embedded firmware → communication → application software → testing & documentation**
+
+My main interests are:
+
+- embedded systems with **STM32, ESP32, Arduino, and FreeRTOS**
+- **PCB design, schematic review, component libraries, and hardware prototyping**
+- **robotics and automation**, especially reliable control and communication layers
+- engineering tools that combine **AI, computer vision, and workflow automation**
+- turning experimental prototypes into systems that are easier to test, maintain, and extend
+
+---
+
+## Engineering focus
+
+<table>
   <tr>
-    <td width="210" align="center" valign="top">
-      <img src="https://github.com/TranDangKhoaTechnology.png" width="180" alt="Tran Dang Khoa Avatar" style="border-radius:50%; border: 3px solid #319795;" />
-      <br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=TranDangKhoaTechnology&style=flat-square&color=319795" alt="profile views" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/From-Vietnam-319795?style=flat-square" alt="From Vietnam" />
-    </td>
-    <td width="560" valign="top">
-      <h2>👋 Xin chào, mình là Trần Đăng Khoa</h2>
-      <p>
-        <b>Automation Engineer</b> • <b>Robotics Enthusiast</b><br/>
-        <i>Mình thích biến ý tưởng thành hệ thống chạy “mượt – ổn – hiệu quả”.</i>
-      </p>
-      <p>
-        🌟 <b>Điểm mạnh</b><br/>
-        • Tư duy thực tế, ưu tiên giải pháp dùng được ngay và dễ bảo trì.<br/>
-        • Kết nối <b>phần cứng – firmware – phần mềm</b> để tạo thành hệ thống hoàn chỉnh.<br/>
-        • Quan tâm tới <b>AI ứng dụng</b> trong tự động hoá và nhà máy thông minh.
-      </p>
-      <p>
-        <a href="https://github.com/TranDangKhoaTechnology" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-        <a href="https://youtube.com/@TranDangKhoaTechnology" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-        </a>
-        <a href="https://www.facebook.com/OfficialTranDangKhoa" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-1976D2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-        </a>
-        <a href="mailto:trandangkhoa.automation@gmail.com">
-          <img src="https://img.shields.io/badge/Email-319795?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-      </p>
-      <p>
-        <b>💬 Mình đang tập trung vào:</b><br/>
-        • Tự động hoá công nghiệp (PLC/SCADA/IIoT) & tích hợp hệ thống<br/>
-        • Embedded/IoT, thiết kế mạch & tối ưu firmware<br/>
-        • Robotics & prototype ứng dụng trong đời sống/giáo dục
-      </p>
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
-<h2>✨ Điều mình theo đuổi</h2>
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top" style="padding:8px;">
-      <h3>🎯 Triết lý làm việc</h3>
+    <td width="50%" valign="top">
+      <h3>Embedded & Firmware</h3>
       <ul>
-        <li><b>Đúng nhu cầu</b> → làm cái cần làm</li>
-        <li><b>Đúng chất lượng</b> → chạy ổn định, dễ mở rộng</li>
-        <li><b>Đúng tốc độ</b> → tối ưu hiệu suất & trải nghiệm</li>
+        <li>STM32 / ESP32 / Arduino</li>
+        <li>C / C++ firmware architecture</li>
+        <li>FreeRTOS / CMSIS-RTOS2</li>
+        <li>UART, BLE, Bluetooth SPP, Wi-Fi</li>
+        <li>State machines, failsafe logic, CRC validation</li>
       </ul>
     </td>
-    <td width="50%" valign="top" style="padding:8px;">
-      <h3>💡 Sở thích chuyên môn</h3>
+    <td width="50%" valign="top">
+      <h3>Hardware & PCB</h3>
       <ul>
-        <li>🤖 Robotics & Embedded Systems</li>
-        <li>🏭 Industrial Automation & PLC</li>
-        <li>🌐 IoT & Smart Factory</li>
-        <li>🧠 AI trong tự động hoá</li>
+        <li>Altium Designer</li>
+        <li>Schematic capture and PCB layout</li>
+        <li>Reusable symbol / footprint libraries</li>
+        <li>BOM, ERC / DRC, datasheet-driven design</li>
+        <li>Power, control, sensor, and robotics boards</li>
       </ul>
     </td>
   </tr>
-</table>
-
-<hr/>
-
-<h2>🧰 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,html,css,git,github,vscode,arduino,raspberrypi&perline=12" alt="skill icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded-319795?style=flat-square" alt="Embedded"/>
-  <img src="https://img.shields.io/badge/IoT-0ea5e9?style=flat-square" alt="IoT"/>
-  <img src="https://img.shields.io/badge/Automation-22c55e?style=flat-square" alt="Automation"/>
-  <img src="https://img.shields.io/badge/System%20Integration-0288D1?style=flat-square" alt="System Integration"/>
-  <img src="https://img.shields.io/badge/PCB%20Design-009688?style=flat-square" alt="PCB Design"/>
-  <img src="https://img.shields.io/badge/Robotics-f59e0b?style=flat-square" alt="Robotics"/>
-</p>
-
-<hr/>
-
-<h2>📈 GitHub Analytics</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/stats.dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/stats.light.svg">
-    <img alt="GitHub Stats" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/stats.dark.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/top-langs.dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/top-langs.light.svg">
-    <img alt="Top Languages" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/top-langs.dark.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TranDangKhoaTechnology&bg_color=00000000&color=319795&line=0ea5e9&point=319795&area=true&hide_border=true" alt="activity graph"/>
-</p>
-
-<hr/>
-
-<h2>🏆 Dự án nổi bật</h2>
-
-<!-- IMPORTANT FIX: Use TABLE + width=100% inside each cell to avoid overflow/overlap -->
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" style="padding:10px;" valign="top">
-      <a href="https://github.com/TranDangKhoaTechnology/FaceAutoVN">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/FaceAutoVN.dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/FaceAutoVN.light.svg">
-          <img alt="FaceAutoVN" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/FaceAutoVN.dark.svg">
-        </picture>
-      </a>
+    <td width="50%" valign="top">
+      <h3>Automation & Robotics</h3>
+      <ul>
+        <li>Robot control systems</li>
+        <li>Motor and servo control</li>
+        <li>Industrial automation mindset</li>
+        <li>Communication and system integration</li>
+        <li>Safety-oriented timeout and recovery logic</li>
+      </ul>
     </td>
-    <td width="50%" style="padding:10px;" valign="top">
-      <a href="https://github.com/TranDangKhoaTechnology/TaoAnhTheBangAI">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/TaoAnhTheBangAI.dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/TaoAnhTheBangAI.light.svg">
-          <img alt="TaoAnhTheBangAI" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/TaoAnhTheBangAI.dark.svg">
-        </picture>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" style="padding:10px;" valign="top">
-      <a href="https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/STM32-FreeRTOS-Multi-Task-Demo.dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/STM32-FreeRTOS-Multi-Task-Demo.light.svg">
-          <img alt="STM32-FreeRTOS-Multi-Task-Demo" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/STM32-FreeRTOS-Multi-Task-Demo.dark.svg">
-        </picture>
-      </a>
-    </td>
-    <td width="50%" style="padding:10px;" valign="top">
-      <a href="https://github.com/TranDangKhoaTechnology/TEST-PID">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/TEST-PID.dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/TEST-PID.light.svg">
-          <img alt="TEST-PID" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/TEST-PID.dark.svg">
-        </picture>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" style="padding:10px;" valign="top">
-      <a href="https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Robot_DHTD18A2HN_2025.dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Robot_DHTD18A2HN_2025.light.svg">
-          <img alt="Robot_DHTD18A2HN_2025" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Robot_DHTD18A2HN_2025.dark.svg">
-        </picture>
-      </a>
-    </td>
-    <td width="50%" style="padding:10px;" valign="top">
-      <a href="https://github.com/TranDangKhoaTechnology/Altium_Library">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Altium_Library.dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Altium_Library.light.svg">
-          <img alt="Altium_Library" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/Altium_Library.dark.svg">
-        </picture>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" style="padding:10px;" valign="top">
-      <a href="https://github.com/TranDangKhoaTechnology/RoboController">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/RoboController.dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/RoboController.light.svg">
-          <img alt="RoboController" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/RoboController.dark.svg">
-        </picture>
-      </a>
-    </td>
-    <td width="50%" style="padding:10px;" valign="top">
-      <a href="https://github.com/TranDangKhoaTechnology/WebGate">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/WebGate.dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/WebGate.light.svg">
-          <img alt="WebGate" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/WebGate.dark.svg">
-        </picture>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" style="padding:10px;" valign="top">
-      <a href="https://github.com/TranDangKhoaTechnology/CertPanel">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/CertPanel.dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/CertPanel.light.svg">
-          <img alt="CertPanel" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/CertPanel.dark.svg">
-        </picture>
-      </a>
-    </td>
-    <td width="50%" style="padding:10px;" valign="top">
-      <a href="https://github.com/TranDangKhoaTechnology/esp32-remote-stm32-flasher">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/esp32-remote-stm32-flasher.dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/esp32-remote-stm32-flasher.light.svg">
-          <img alt="esp32-remote-stm32-flasher" width="100%" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/pins/esp32-remote-stm32-flasher.dark.svg">
-        </picture>
-      </a>
+    <td width="50%" valign="top">
+      <h3>Software & AI</h3>
+      <ul>
+        <li>Python engineering tools</li>
+        <li>OpenCV and vision-assisted automation</li>
+        <li>Web dashboards and utility applications</li>
+        <li>LLM-assisted engineering workflows</li>
+        <li>Git / GitHub-based project delivery</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<hr/>
+---
 
-<h2>📫 Kết nối với mình</h2>
+## Selected public engineering projects
 
-<p align="center">
-  <a href="https://github.com/TranDangKhoaTechnology" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-  </a>
-  <a href="https://youtube.com/@TranDangKhoaTechnology" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe YouTube" />
-  </a>
-  <a href="https://www.facebook.com/OfficialTranDangKhoa" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20Facebook-1976D2?style=for-the-badge&logo=facebook&logoColor=white" alt="Connect Facebook" />
-  </a>
-  <a href="mailto:trandangkhoa.automation@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20me-319795?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
-  </a>
-</p>
+| Project | What it demonstrates | Core technologies |
+|---|---|---|
+| [**Altium_Library**](https://github.com/TranDangKhoaTechnology/Altium_Library) | Reusable Altium resources, component libraries, scripts, and engineering documentation | Altium Designer, PCB libraries, automation scripts |
+| [**STM32-FreeRTOS-Multi-Task-Demo**](https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo) | Priority-based multitasking architecture on STM32F103 with a documented engineering and verification workflow | STM32, FreeRTOS, CMSIS-RTOS2, UART, Keil |
+| [**RoboController**](https://github.com/TranDangKhoaTechnology/RoboController) | Portable UART gamepad frame parser with CRC8 validation, connection timeout, 24 buttons, and dual joystick data | C++, Arduino, ESP32, ESP8266, UART |
+| [**Robot_DHTD18A2HN_2025**](https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025) | ESP32 Bluetooth robot with DC motor control, four-servo gripper, direct Android control, and communication failsafe | ESP32, C++, Bluetooth SPP, PWM, Servo |
 
-<hr/>
+> I use GitHub as both a project workspace and an engineering notebook: source code, hardware design files, experiments, reports, and reusable tooling live together whenever that improves traceability.
 
-<p align="center">
-  <b>“Make it work, make it right, make it fast.”</b><br/>
-  <i>— Kent Beck</i>
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:319795,100:0ea5e9&height=3&section=footer" alt="footer line" />
-</p>
+## Technical toolbox
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,php,js,html,css,git,github,vscode,arduino&perline=12" alt="Technical skills" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/FreeRTOS-2F6F3E?style=flat-square" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square" alt="Altium Designer" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-0F766E?style=flat-square" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/PCB_Design-2563EB?style=flat-square" alt="PCB Design" />
+  <img src="https://img.shields.io/badge/Robotics-F59E0B?style=flat-square" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Automation-16A34A?style=flat-square" alt="Automation" />
+</div>
+
+---
+
+## How I approach engineering
+
+- **Understand the system first** — interfaces, constraints, failure modes, and real operating conditions matter more than isolated code.
+- **Design for verification** — logs, test points, reproducible builds, and clear acceptance criteria reduce guesswork.
+- **Prefer safe failure modes** — timeouts, validation, recovery paths, and conservative hardware assumptions are part of the design.
+- **Document decisions** — a project should be understandable after the prototype works, not only while it is being built.
+- **Optimize after measuring** — performance work is most valuable when based on evidence.
+
+---
+
+## GitHub activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/stats.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/stats.light.svg" />
+    <img alt="GitHub statistics" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/stats.dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/top-langs.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/top-langs.light.svg" />
+    <img alt="Top languages" src="https://raw.githubusercontent.com/TranDangKhoaTechnology/github-readme-stats/main/generated/top-langs.dark.svg" />
+  </picture>
+</div>
+
+---
+
+## Contact
+
+For technical discussion, collaboration, or project-related questions:
+
+- **Email:** [trandangkhoa.automation@gmail.com](mailto:trandangkhoa.automation@gmail.com)
+- **GitHub:** [@TranDangKhoaTechnology](https://github.com/TranDangKhoaTechnology)
+- **YouTube:** [@TranDangKhoaTechnology](https://youtube.com/@TranDangKhoaTechnology)
+- **Facebook:** [OfficialTranDangKhoa](https://www.facebook.com/OfficialTranDangKhoa)
+
+<div align="center">
+  <br/>
+  <strong>Build the whole system. Verify every layer. Keep improving.</strong>
+  <br/><br/>
+  <sub>Hardware · Firmware · Automation · Software</sub>
+</div>
