@@ -99,16 +99,73 @@ My main interests are:
 
 ## Selected public engineering projects
 
-| Project | What it demonstrates | Core technologies |
-|---|---|---|
-| [**Altium_Library**](https://github.com/TranDangKhoaTechnology/Altium_Library) | Reusable Altium resources, component libraries, scripts, and engineering documentation | Altium Designer, PCB libraries, automation scripts |
-| [**STM32-FreeRTOS-Multi-Task-Demo**](https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo) | Priority-based multitasking architecture on STM32F103 with a documented engineering and verification workflow | STM32, FreeRTOS, CMSIS-RTOS2, UART, Keil |
-| [**RoboController**](https://github.com/TranDangKhoaTechnology/RoboController) | Portable UART gamepad frame parser with CRC8 validation, connection timeout, 24 buttons, and dual joystick data | C++, Arduino, ESP32, ESP8266, UART |
-| [**Robot_DHTD18A2HN_2025**](https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025) | ESP32 Bluetooth robot with DC motor control, four-servo gripper, direct Android control, and communication failsafe | ESP32, C++, Bluetooth SPP, PWM, Servo |
-| [**Motor-Control-Deck**](https://github.com/TranDangKhoaTechnology/Motor-Control-Deck) | Complete four-motor control and diagnostic platform with a desktop application, STM32 USB CDC bridge, UART driver protocol, telemetry, reconnect handling, and communication timeout safety | STM32F103, Python, CustomTkinter, USB CDC, UART |
-| [**Do_Line**](https://github.com/TranDangKhoaTechnology/Do_Line) | PID-based line-following robot with ALIGN and RUN modes, dynamic speed reduction, anti-windup, derivative filtering, and live serial tuning | Arduino Mega 2560, C++, PID, PWM, IR sensors |
-| [**Agrisort-AI**](https://github.com/TranDangKhoaTechnology/Agrisort-AI) | Intelligent agricultural-product classification combined with QR-based traceability | AI classification, computer vision, QR traceability |
-| [**ChatAI-Desktop**](https://github.com/TranDangKhoaTechnology/ChatAI-Desktop) | Vietnamese voice-assistant pipeline from microphone input to speech recognition, Gemini response generation, text-to-speech, and audio playback | Python, SpeechRecognition, Gemini API, gTTS, pygame |
+<div align="center">
+  <a href="https://github.com/TranDangKhoaTechnology/Altium_Library">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=github_dark&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=default&amp;hide_border=true" />
+      <img width="49%" alt="Altium Library repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=github_dark&amp;hide_border=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=STM32-FreeRTOS-Multi-Task-Demo&amp;theme=github_dark&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=STM32-FreeRTOS-Multi-Task-Demo&amp;theme=default&amp;hide_border=true" />
+      <img width="49%" alt="STM32 FreeRTOS Multi Task Demo repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=STM32-FreeRTOS-Multi-Task-Demo&amp;theme=github_dark&amp;hide_border=true" />
+    </picture>
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/TranDangKhoaTechnology/RoboController">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=github_dark&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=default&amp;hide_border=true" />
+      <img width="49%" alt="RoboController repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=github_dark&amp;hide_border=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=github_dark&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=default&amp;hide_border=true" />
+      <img width="49%" alt="Robot DHTD18A2HN 2025 repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=github_dark&amp;hide_border=true" />
+    </picture>
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/TranDangKhoaTechnology/Motor-Control-Deck">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=github_dark&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=default&amp;hide_border=true" />
+      <img width="49%" alt="Motor Control Deck repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=github_dark&amp;hide_border=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/TranDangKhoaTechnology/Do_Line">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=github_dark&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=default&amp;hide_border=true" />
+      <img width="49%" alt="Do Line repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=github_dark&amp;hide_border=true" />
+    </picture>
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/TranDangKhoaTechnology/Agrisort-AI">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=github_dark&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=default&amp;hide_border=true" />
+      <img width="49%" alt="Agrisort AI repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=github_dark&amp;hide_border=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/TranDangKhoaTechnology/ChatAI-Desktop">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=ChatAI-Desktop&amp;theme=github_dark&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=ChatAI-Desktop&amp;theme=default&amp;hide_border=true" />
+      <img width="49%" alt="ChatAI Desktop repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=ChatAI-Desktop&amp;theme=github_dark&amp;hide_border=true" />
+    </picture>
+  </a>
+</div>
 
 > I use GitHub as both a project workspace and an engineering notebook: source code, hardware design files, experiments, reports, and reusable tooling live together whenever that improves traceability.
 
