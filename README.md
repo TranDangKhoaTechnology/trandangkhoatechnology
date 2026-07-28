@@ -30,66 +30,39 @@
 
 ---
 
-## About me
+## GitHub overview
 
-I enjoy engineering complete systems rather than isolated pieces. My work typically connects:
-
-**schematic & PCB → embedded firmware → communication → application software → testing & documentation**
-
-My main interests are:
-
-- embedded systems with **STM32, ESP32, Arduino, and FreeRTOS**
-- **PCB design, schematic review, component libraries, and hardware prototyping**
-- **robotics and automation**, especially reliable control and communication layers
-- engineering tools that combine **AI, computer vision, and workflow automation**
-- turning experimental prototypes into systems that are easier to test, maintain, and extend
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;include_all_commits=true" />
+    <img width="49%" alt="GitHub statistics" src="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true" />
+    <img width="49%" alt="Top languages" src="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true" />
+  </picture>
+</div>
 
 ---
-
-## Engineering focus
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Embedded & Firmware</h3>
-      <ul>
-        <li>STM32 / ESP32 / Arduino</li>
-        <li>C / C++ firmware architecture</li>
-        <li>FreeRTOS / CMSIS-RTOS2</li>
-        <li>UART, BLE, Bluetooth SPP, Wi-Fi</li>
-        <li>State machines, failsafe logic, CRC validation</li>
-      </ul>
+      <h2>About me</h2>
+      <p>I enjoy engineering complete systems rather than isolated pieces.</p>
+      <p><strong>Schematic & PCB → embedded firmware → communication → application software → testing & documentation</strong></p>
+      <p>I use GitHub as both a project workspace and an engineering notebook, keeping source code, hardware files, experiments, reports, and reusable tooling together whenever that improves traceability.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Hardware & PCB</h3>
+      <h2>Engineering focus</h2>
       <ul>
-        <li>Altium Designer</li>
-        <li>Schematic capture and PCB layout</li>
-        <li>Reusable symbol / footprint libraries</li>
-        <li>BOM, ERC / DRC, datasheet-driven design</li>
-        <li>Power, control, sensor, and robotics boards</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Automation & Robotics</h3>
-      <ul>
-        <li>Robot control systems</li>
-        <li>Motor and servo control</li>
-        <li>Industrial automation mindset</li>
-        <li>Communication and system integration</li>
-        <li>Safety-oriented timeout and recovery logic</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Software & AI</h3>
-      <ul>
-        <li>Python engineering tools</li>
-        <li>OpenCV and vision-assisted automation</li>
-        <li>Web dashboards and utility applications</li>
-        <li>LLM-assisted engineering workflows</li>
-        <li>Git / GitHub-based project delivery</li>
+        <li><strong>Embedded:</strong> STM32, ESP32, Arduino, FreeRTOS</li>
+        <li><strong>Hardware:</strong> schematic review, PCB design, component libraries</li>
+        <li><strong>Robotics:</strong> motor control, communication, safety and recovery logic</li>
+        <li><strong>Software:</strong> Python tools, desktop applications, web dashboards</li>
+        <li><strong>AI:</strong> computer vision and engineering workflow automation</li>
       </ul>
     </td>
   </tr>
@@ -98,6 +71,8 @@ My main interests are:
 ---
 
 ## Selected public engineering projects
+
+### Embedded, control & hardware
 
 <div align="center">
   <a href="https://github.com/TranDangKhoaTechnology/Motor-Control-Deck">
@@ -148,9 +123,11 @@ My main interests are:
       <img width="49%" alt="Do Line repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=github_dark&amp;hide_border=true" />
     </picture>
   </a>
+</div>
 
-  <br/>
+### AI & software
 
+<div align="center">
   <a href="https://github.com/TranDangKhoaTechnology/Agrisort-AI">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=github_dark&amp;hide_border=true" />
@@ -167,19 +144,15 @@ My main interests are:
   </a>
 </div>
 
-> I use GitHub as both a project workspace and an engineering notebook: source code, hardware design files, experiments, reports, and reusable tooling live together whenever that improves traceability.
-
 ---
 
 ## Technical toolbox
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,php,js,html,css,git,github,vscode,arduino&perline=12" alt="Technical skills" />
-</div>
 
-<br/>
+  <br/><br/>
 
-<div align="center">
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/FreeRTOS-2F6F3E?style=flat-square" alt="FreeRTOS" />
@@ -192,52 +165,34 @@ My main interests are:
 
 ---
 
-## How I approach engineering
+## Engineering principles
 
-- **Understand the system first** — interfaces, constraints, failure modes, and real operating conditions matter more than isolated code.
-- **Design for verification** — logs, test points, reproducible builds, and clear acceptance criteria reduce guesswork.
-- **Prefer safe failure modes** — timeouts, validation, recovery paths, and conservative hardware assumptions are part of the design.
-- **Document decisions** — a project should be understandable after the prototype works, not only while it is being built.
-- **Optimize after measuring** — performance work is most valuable when based on evidence.
-
----
-
-## GitHub activity
-
-<div align="center">
-  <a href="https://github.com/TranDangKhoaTechnology/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;include_all_commits=true" />
-      <img alt="GitHub statistics" src="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true" />
-    </picture>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/TranDangKhoaTechnology/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true" />
-      <img alt="Top languages" src="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true" />
-    </picture>
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top"><strong>Understand the system</strong><br/>Interfaces, constraints, failure modes, and actual operating conditions come first.</td>
+    <td width="50%" valign="top"><strong>Design for verification</strong><br/>Logs, test points, reproducible builds, and acceptance criteria reduce guesswork.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><strong>Prefer safe failure modes</strong><br/>Timeouts, validation, recovery paths, and conservative assumptions are part of the design.</td>
+    <td width="50%" valign="top"><strong>Measure before optimizing</strong><br/>Performance work should be based on evidence and documented engineering decisions.</td>
+  </tr>
+</table>
 
 ---
 
-## Contact
-
-For technical discussion, collaboration, or project-related questions:
-
-- **Email:** [trandangkhoa.automation@gmail.com](mailto:trandangkhoa.automation@gmail.com)
-- **GitHub:** [@TranDangKhoaTechnology](https://github.com/TranDangKhoaTechnology)
-- **YouTube:** [@TranDangKhoaTechnology](https://youtube.com/@TranDangKhoaTechnology)
-- **Facebook:** [OfficialTranDangKhoa](https://www.facebook.com/OfficialTranDangKhoa)
-
 <div align="center">
+  <h2>Contact</h2>
+
+  <p>
+    <a href="mailto:trandangkhoa.automation@gmail.com"><strong>Email</strong></a>
+    ·
+    <a href="https://github.com/TranDangKhoaTechnology"><strong>GitHub</strong></a>
+    ·
+    <a href="https://youtube.com/@TranDangKhoaTechnology"><strong>YouTube</strong></a>
+    ·
+    <a href="https://www.facebook.com/OfficialTranDangKhoa"><strong>Facebook</strong></a>
+  </p>
+
   <br/>
   <strong>Build the whole system. Verify every layer. Keep improving.</strong>
   <br/><br/>
