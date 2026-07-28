@@ -100,11 +100,11 @@ My main interests are:
 ## Selected public engineering projects
 
 <div align="center">
-  <a href="https://github.com/TranDangKhoaTechnology/Altium_Library">
+  <a href="https://github.com/TranDangKhoaTechnology/Motor-Control-Deck">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=github_dark&amp;hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=default&amp;hide_border=true" />
-      <img width="49%" alt="Altium Library repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=github_dark&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=github_dark&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=default&amp;hide_border=true" />
+      <img width="49%" alt="Motor Control Deck repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=github_dark&amp;hide_border=true" />
     </picture>
   </a>
   <a href="https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo">
@@ -117,6 +117,13 @@ My main interests are:
 
   <br/>
 
+  <a href="https://github.com/TranDangKhoaTechnology/Altium_Library">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=github_dark&amp;hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=default&amp;hide_border=true" />
+      <img width="49%" alt="Altium Library repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=github_dark&amp;hide_border=true" />
+    </picture>
+  </a>
   <a href="https://github.com/TranDangKhoaTechnology/RoboController">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=github_dark&amp;hide_border=true" />
@@ -124,21 +131,14 @@ My main interests are:
       <img width="49%" alt="RoboController repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=github_dark&amp;hide_border=true" />
     </picture>
   </a>
+
+  <br/>
+
   <a href="https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=github_dark&amp;hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=default&amp;hide_border=true" />
       <img width="49%" alt="Robot DHTD18A2HN 2025 repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=github_dark&amp;hide_border=true" />
-    </picture>
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/TranDangKhoaTechnology/Motor-Control-Deck">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=github_dark&amp;hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=default&amp;hide_border=true" />
-      <img width="49%" alt="Motor Control Deck repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin/?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=github_dark&amp;hide_border=true" />
     </picture>
   </a>
   <a href="https://github.com/TranDangKhoaTechnology/Do_Line">
