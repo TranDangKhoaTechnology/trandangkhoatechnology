@@ -105,6 +105,10 @@ My main interests are:
 | [**STM32-FreeRTOS-Multi-Task-Demo**](https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo) | Priority-based multitasking architecture on STM32F103 with a documented engineering and verification workflow | STM32, FreeRTOS, CMSIS-RTOS2, UART, Keil |
 | [**RoboController**](https://github.com/TranDangKhoaTechnology/RoboController) | Portable UART gamepad frame parser with CRC8 validation, connection timeout, 24 buttons, and dual joystick data | C++, Arduino, ESP32, ESP8266, UART |
 | [**Robot_DHTD18A2HN_2025**](https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025) | ESP32 Bluetooth robot with DC motor control, four-servo gripper, direct Android control, and communication failsafe | ESP32, C++, Bluetooth SPP, PWM, Servo |
+| [**Motor-Control-Deck**](https://github.com/TranDangKhoaTechnology/Motor-Control-Deck) | Complete four-motor control and diagnostic platform with a desktop application, STM32 USB CDC bridge, UART driver protocol, telemetry, reconnect handling, and communication timeout safety | STM32F103, Python, CustomTkinter, USB CDC, UART |
+| [**Do_Line**](https://github.com/TranDangKhoaTechnology/Do_Line) | PID-based line-following robot with ALIGN and RUN modes, dynamic speed reduction, anti-windup, derivative filtering, and live serial tuning | Arduino Mega 2560, C++, PID, PWM, IR sensors |
+| [**Agrisort-AI**](https://github.com/TranDangKhoaTechnology/Agrisort-AI) | Intelligent agricultural-product classification combined with QR-based traceability | AI classification, computer vision, QR traceability |
+| [**ChatAI-Desktop**](https://github.com/TranDangKhoaTechnology/ChatAI-Desktop) | Vietnamese voice-assistant pipeline from microphone input to speech recognition, Gemini response generation, text-to-speech, and audio playback | Python, SpeechRecognition, Gemini API, gTTS, pygame |
 
 > I use GitHub as both a project workspace and an engineering notebook: source code, hardware design files, experiments, reports, and reusable tooling live together whenever that improves traceability.
 
