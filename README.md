@@ -26,23 +26,18 @@ Electrical engineering student at **UNETI**, building practical systems across h
 
 ## GitHub overview
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github" />
-  <img width="100%" alt="GitHub statistics" src="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true" />
-  <img width="100%" alt="Top languages" src="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true" />
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github&amp;card_width=345" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github&amp;card_width=345" />
+    <img align="center" alt="GitHub statistics" src="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github&amp;card_width=345" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;card_width=345&amp;theme=github_dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;card_width=345&amp;theme=default&amp;hide_border=true" />
+    <img align="center" alt="Top languages" src="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;card_width=345&amp;theme=github_dark&amp;hide_border=true" />
+  </picture>
+</p>
 
 ---
 
