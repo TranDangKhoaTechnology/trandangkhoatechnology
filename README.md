@@ -9,22 +9,14 @@
 Electrical engineering student at **UNETI**, building practical systems across hardware, firmware, automation, and software.
 
 <p>
-  <a href="https://github.com/TranDangKhoaTechnology">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:trandangkhoa.automation@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://youtube.com/@TranDangKhoaTechnology">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.facebook.com/OfficialTranDangKhoa">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
+  <a href="https://github.com/TranDangKhoaTechnology"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:trandangkhoa.automation@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://youtube.com/@TranDangKhoaTechnology"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.facebook.com/OfficialTranDangKhoa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=TranDangKhoaTechnology&style=flat-square&color=0ea5e9" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TranDangKhoaTechnology&amp;style=flat-square&amp;color=0ea5e9" alt="Profile views" />
   <img src="https://img.shields.io/badge/Based_in-Vietnam-da251d?style=flat-square" alt="Based in Vietnam" />
 </p>
 
@@ -37,17 +29,17 @@ Electrical engineering student at **UNETI**, building practical systems across h
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&show_icons=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img alt="GitHub statistics" src="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github" />
+  <img width="100%" alt="GitHub statistics" src="https://github-readme-stats-ten-liard-57.vercel.app/api?username=TranDangKhoaTechnology&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&layout=compact&langs_count=8&theme=default&hide_border=true" />
-  <img alt="Top languages" src="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true" />
+  <img width="100%" alt="Top languages" src="https://github-readme-stats-ten-liard-57.vercel.app/api/top-langs?username=TranDangKhoaTechnology&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true" />
 </picture>
 
 </div>
@@ -80,9 +72,9 @@ I use GitHub as both a project workspace and an engineering notebook, keeping so
 
 <a href="https://github.com/TranDangKhoaTechnology/Motor-Control-Deck">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Motor-Control-Deck&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Motor-Control-Deck&theme=default&hide_border=true" />
-    <img alt="Motor Control Deck repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Motor-Control-Deck&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=github_dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=default&amp;hide_border=true" />
+    <img width="100%" alt="Motor Control Deck repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=github_dark&amp;hide_border=true" />
   </picture>
 </a>
 
@@ -90,9 +82,9 @@ I use GitHub as both a project workspace and an engineering notebook, keeping so
 
 <a href="https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=STM32-FreeRTOS-Multi-Task-Demo&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=STM32-FreeRTOS-Multi-Task-Demo&theme=default&hide_border=true" />
-    <img alt="STM32 FreeRTOS Multi Task Demo repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=STM32-FreeRTOS-Multi-Task-Demo&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=STM32-FreeRTOS-Multi-Task-Demo&amp;theme=github_dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=STM32-FreeRTOS-Multi-Task-Demo&amp;theme=default&amp;hide_border=true" />
+    <img width="100%" alt="STM32 FreeRTOS Multi Task Demo repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=STM32-FreeRTOS-Multi-Task-Demo&amp;theme=github_dark&amp;hide_border=true" />
   </picture>
 </a>
 
@@ -100,9 +92,9 @@ I use GitHub as both a project workspace and an engineering notebook, keeping so
 
 <a href="https://github.com/TranDangKhoaTechnology/Altium_Library">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Altium_Library&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Altium_Library&theme=default&hide_border=true" />
-    <img alt="Altium Library repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Altium_Library&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=github_dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=default&amp;hide_border=true" />
+    <img width="100%" alt="Altium Library repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=github_dark&amp;hide_border=true" />
   </picture>
 </a>
 
@@ -110,9 +102,9 @@ I use GitHub as both a project workspace and an engineering notebook, keeping so
 
 <a href="https://github.com/TranDangKhoaTechnology/RoboController">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=RoboController&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=RoboController&theme=default&hide_border=true" />
-    <img alt="RoboController repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=RoboController&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=github_dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=default&amp;hide_border=true" />
+    <img width="100%" alt="RoboController repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=github_dark&amp;hide_border=true" />
   </picture>
 </a>
 
@@ -120,9 +112,9 @@ I use GitHub as both a project workspace and an engineering notebook, keeping so
 
 <a href="https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Robot_DHTD18A2HN_2025&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Robot_DHTD18A2HN_2025&theme=default&hide_border=true" />
-    <img alt="Robot DHTD18A2HN 2025 repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Robot_DHTD18A2HN_2025&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=github_dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=default&amp;hide_border=true" />
+    <img width="100%" alt="Robot DHTD18A2HN 2025 repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=github_dark&amp;hide_border=true" />
   </picture>
 </a>
 
@@ -130,9 +122,9 @@ I use GitHub as both a project workspace and an engineering notebook, keeping so
 
 <a href="https://github.com/TranDangKhoaTechnology/Do_Line">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Do_Line&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Do_Line&theme=default&hide_border=true" />
-    <img alt="Do Line repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Do_Line&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=github_dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=default&amp;hide_border=true" />
+    <img width="100%" alt="Do Line repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=github_dark&amp;hide_border=true" />
   </picture>
 </a>
 
@@ -144,9 +136,9 @@ I use GitHub as both a project workspace and an engineering notebook, keeping so
 
 <a href="https://github.com/TranDangKhoaTechnology/Agrisort-AI">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Agrisort-AI&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Agrisort-AI&theme=default&hide_border=true" />
-    <img alt="Agrisort AI repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=Agrisort-AI&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=github_dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=default&amp;hide_border=true" />
+    <img width="100%" alt="Agrisort AI repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=github_dark&amp;hide_border=true" />
   </picture>
 </a>
 
@@ -154,9 +146,9 @@ I use GitHub as both a project workspace and an engineering notebook, keeping so
 
 <a href="https://github.com/TranDangKhoaTechnology/ChatAI-Desktop">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=ChatAI-Desktop&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=ChatAI-Desktop&theme=default&hide_border=true" />
-    <img alt="ChatAI Desktop repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&repo=ChatAI-Desktop&theme=github_dark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=ChatAI-Desktop&amp;theme=github_dark&amp;hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=ChatAI-Desktop&amp;theme=default&amp;hide_border=true" />
+    <img width="100%" alt="ChatAI Desktop repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=ChatAI-Desktop&amp;theme=github_dark&amp;hide_border=true" />
   </picture>
 </a>
 
@@ -169,15 +161,15 @@ I use GitHub as both a project workspace and an engineering notebook, keeping so
 <div align="center">
 
 <picture>
-  <source media="(max-width: 480px)" srcset="https://skillicons.dev/icons?i=c,cpp,python,kotlin,php,js,html,css,git,github,vscode,arduino&perline=4" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,php,js,html,css,git,github,vscode,arduino&perline=6" alt="Technical skills" />
+  <source media="(max-width: 480px)" srcset="https://skillicons.dev/icons?i=c,cpp,python,kotlin,php,js,html,css,git,github,vscode,arduino&amp;perline=4" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,php,js,html,css,git,github,vscode,arduino&amp;perline=6" alt="Technical skills" />
 </picture>
 
 <br/><br/>
 
 <p>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&amp;logo=stmicroelectronics&amp;logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&amp;logo=espressif&amp;logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/FreeRTOS-2F6F3E?style=flat-square" alt="FreeRTOS" />
   <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square" alt="Altium Designer" />
   <img src="https://img.shields.io/badge/Embedded_Systems-0F766E?style=flat-square" alt="Embedded Systems" />
