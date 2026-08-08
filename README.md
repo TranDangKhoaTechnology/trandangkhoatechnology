@@ -70,63 +70,14 @@ I use GitHub as both a project workspace and an engineering notebook, keeping so
 
 <div align="center">
 
-<a href="https://github.com/TranDangKhoaTechnology/Motor-Control-Deck">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=github_dark&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=default&amp;hide_border=true" />
-    <img width="100%" alt="Motor Control Deck repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=github_dark&amp;hide_border=true" />
-  </picture>
-</a>
-
+<a href="https://github.com/TranDangKhoaTechnology/Motor-Control-Deck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=github_dark&amp;hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=default&amp;hide_border=true" /><img width="350" alt="Motor Control Deck repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Motor-Control-Deck&amp;theme=github_dark&amp;hide_border=true" /></picture></a>
+<a href="https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=STM32-FreeRTOS-Multi-Task-Demo&amp;theme=github_dark&amp;hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=STM32-FreeRTOS-Multi-Task-Demo&amp;theme=default&amp;hide_border=true" /><img width="350" alt="STM32 FreeRTOS Multi Task Demo repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=STM32-FreeRTOS-Multi-Task-Demo&amp;theme=github_dark&amp;hide_border=true" /></picture></a>
 <br/>
-
-<a href="https://github.com/TranDangKhoaTechnology/STM32-FreeRTOS-Multi-Task-Demo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=STM32-FreeRTOS-Multi-Task-Demo&amp;theme=github_dark&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=STM32-FreeRTOS-Multi-Task-Demo&amp;theme=default&amp;hide_border=true" />
-    <img width="100%" alt="STM32 FreeRTOS Multi Task Demo repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=STM32-FreeRTOS-Multi-Task-Demo&amp;theme=github_dark&amp;hide_border=true" />
-  </picture>
-</a>
-
+<a href="https://github.com/TranDangKhoaTechnology/Altium_Library"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=github_dark&amp;hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=default&amp;hide_border=true" /><img width="350" alt="Altium Library repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=github_dark&amp;hide_border=true" /></picture></a>
+<a href="https://github.com/TranDangKhoaTechnology/RoboController"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=github_dark&amp;hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=default&amp;hide_border=true" /><img width="350" alt="RoboController repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=github_dark&amp;hide_border=true" /></picture></a>
 <br/>
-
-<a href="https://github.com/TranDangKhoaTechnology/Altium_Library">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=github_dark&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=default&amp;hide_border=true" />
-    <img width="100%" alt="Altium Library repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Altium_Library&amp;theme=github_dark&amp;hide_border=true" />
-  </picture>
-</a>
-
-<br/>
-
-<a href="https://github.com/TranDangKhoaTechnology/RoboController">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=github_dark&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=default&amp;hide_border=true" />
-    <img width="100%" alt="RoboController repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=RoboController&amp;theme=github_dark&amp;hide_border=true" />
-  </picture>
-</a>
-
-<br/>
-
-<a href="https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=github_dark&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=default&amp;hide_border=true" />
-    <img width="100%" alt="Robot DHTD18A2HN 2025 repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=github_dark&amp;hide_border=true" />
-  </picture>
-</a>
-
-<br/>
-
-<a href="https://github.com/TranDangKhoaTechnology/Do_Line">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=github_dark&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=default&amp;hide_border=true" />
-    <img width="100%" alt="Do Line repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=github_dark&amp;hide_border=true" />
-  </picture>
-</a>
+<a href="https://github.com/TranDangKhoaTechnology/Robot_DHTD18A2HN_2025"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=github_dark&amp;hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=default&amp;hide_border=true" /><img width="350" alt="Robot DHTD18A2HN 2025 repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Robot_DHTD18A2HN_2025&amp;theme=github_dark&amp;hide_border=true" /></picture></a>
+<a href="https://github.com/TranDangKhoaTechnology/Do_Line"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=github_dark&amp;hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=default&amp;hide_border=true" /><img width="350" alt="Do Line repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Do_Line&amp;theme=github_dark&amp;hide_border=true" /></picture></a>
 
 </div>
 
@@ -134,23 +85,8 @@ I use GitHub as both a project workspace and an engineering notebook, keeping so
 
 <div align="center">
 
-<a href="https://github.com/TranDangKhoaTechnology/Agrisort-AI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=github_dark&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=default&amp;hide_border=true" />
-    <img width="100%" alt="Agrisort AI repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=github_dark&amp;hide_border=true" />
-  </picture>
-</a>
-
-<br/>
-
-<a href="https://github.com/TranDangKhoaTechnology/ChatAI-Desktop">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=ChatAI-Desktop&amp;theme=github_dark&amp;hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=ChatAI-Desktop&amp;theme=default&amp;hide_border=true" />
-    <img width="100%" alt="ChatAI Desktop repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=ChatAI-Desktop&amp;theme=github_dark&amp;hide_border=true" />
-  </picture>
-</a>
+<a href="https://github.com/TranDangKhoaTechnology/Agrisort-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=github_dark&amp;hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=default&amp;hide_border=true" /><img width="350" alt="Agrisort AI repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=Agrisort-AI&amp;theme=github_dark&amp;hide_border=true" /></picture></a>
+<a href="https://github.com/TranDangKhoaTechnology/ChatAI-Desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=ChatAI-Desktop&amp;theme=github_dark&amp;hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=ChatAI-Desktop&amp;theme=default&amp;hide_border=true" /><img width="350" alt="ChatAI Desktop repository" src="https://github-readme-stats-ten-liard-57.vercel.app/api/pin?username=TranDangKhoaTechnology&amp;repo=ChatAI-Desktop&amp;theme=github_dark&amp;hide_border=true" /></picture></a>
 
 </div>
 
